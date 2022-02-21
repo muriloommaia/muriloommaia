@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-<p><em>Estudante e summer jobber na <a href="https://betrybe.com">Trybe</a>, aprendendo desenvolvimento Web Full Stack. 😊 </br>
+<p><em>Student and sumer job at <a href="https://betrybe.com">Trybe</a>, learning about fullStack web development. </br>
 </em></p>
 
 
@@ -16,15 +16,14 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express", "Sequelize"],
          ts: ["Node", "Express", "Type ORM"],
-         misc: ["Bash", "Mocha", "JEST", "Sinon", "Chai"]
+         misc: ["Bash", "Mocha", "JEST", "Sinon", "Chai"],
+         others: ["Docker", "Firebase", "Heroku"]
       },
-      databases: ["MongoDB", "mySQL" ],
+      databases: ["MongoDB", "mySQL", "Postgres" ],
    },
-   currentOccupation: ["Prestes a se formar na Trybe, em busca de um emprego"],
-   challenge: "Aprofundar meus conhecimentos",
    contacts: {
       email: "muriloommaia@gmail.com",
-      LinkedIn: "https://www.linkedin.com/in/pablo-pinheiro-assuncao/",
+      LinkedIn: "https://www.linkedin.com/in/murilommaia/",
       phone: "+54 9 11 2584-8669"
    }
 };
@@ -52,5 +51,16 @@ const aboutMe = {
     />
   </a>
 </div>
+
+# CONTACT
+
+### [LinkedIn](https://www.linkedin.com/in/murilommaia/)
+
+### [Mail](mailto:muriloommaia@gmail.com)
+
+### [Telegram](https://t.me/MuriloMMaia)
+
+### [WhatsApp](https://wa.me/5491125848669)
+
 
 <br />
