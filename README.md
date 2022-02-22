@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-<p><em>Student and sumer job at <a href="https://betrybe.com">Trybe</a>, learning about fullStack web development. </br>
+<p><em>Student and summer job at <a href="https://betrybe.com">Trybe</a>, learning about fullStack web development. </br>
 </em></p>
 
 
