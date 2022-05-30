@@ -2,7 +2,7 @@
 
 **Hello I'm Murilo Moura Maia, and this is my GitHub Profile**
 
-* Software Engineering at [Kimche](https://www.kimche.co/)
+*Software Engineering at [Kimche](https://www.kimche.co/)*
 
 *Student at [Trybe](https://betrybe.com), learning about fullStack web development.*
 
