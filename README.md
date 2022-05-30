@@ -2,7 +2,9 @@
 
 **Hello I'm Murilo Moura Maia, and this is my GitHub Profile**
 
-*Student and summer job at [Trybe](https://betrybe.com), learning about fullStack web development.*
+* Software Engineering at [Kimche](https://www.kimche.co/)
+
+*Student at [Trybe](https://betrybe.com), learning about fullStack web development.*
 
 *Student at [HarvardX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), learning about Computer Science.*
 
