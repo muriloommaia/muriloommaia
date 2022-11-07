@@ -4,8 +4,6 @@
 
 *Software Engineering at [Kimche](https://www.kimche.co/)*
 
-*Student at [Trybe](https://betrybe.com), learning about fullStack web development.*
-
 *Student at [HarvardX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), learning about Computer Science.*
 
 **About me**
