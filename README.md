@@ -53,26 +53,3 @@ Enchanted by logic and technology, I have a degree in civil engineering. Because
 
 
 
-</br></br>
-
-<div align="center">
-   <h2>💻 Algumas stats 💻 </h2>
-   
-  <a href="https://github.com/muriloommaia">
-    <img
-      alt="GitHub Stats card"
-      align="center"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=muriloommaia&count_private=true&custom_title=GitHub Stats&hide=issues&hide_rank=true&include_all_commits=true&show_icons=true&theme=react"
-    />
-  </a>
-  <a href="https://github.com/muriloommaia">
-    <img
-      alt="Most Used Languages card"
-      align="center"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloommaia&layout=compact&theme=react"
-    />
-  </a>
-</div>
-
