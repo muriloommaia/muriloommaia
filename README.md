@@ -4,8 +4,6 @@
 
 *Software Engineering at [Kimche](https://www.kimche.co/)*
 
-*Student at [HarvardX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), learning about Computer Science.*
-
 **About me**
 
 Enchanted by logic and technology, I have a degree in civil engineering. Because of my passion for programming, and the benefits that innovation brings, I made a career transition in 2021. I am proficient in front and back-end stacks, using languages such as JavaScript and TypeScript.
