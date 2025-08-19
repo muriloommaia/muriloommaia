@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-
 **Hello I'm Murilo Moura Maia, and this is my GitHub Profile**
 
 *Software Engineering at [Kimche](https://www.kimche.co/)*
@@ -11,7 +9,7 @@ Enchanted by logic and technology, I have a degree in civil engineering. Because
 ### Contact me
 * #### This is my [LinkedIn](https://www.linkedin.com/in/murilommaia/) profile
 
-* #### Send me a [Mail](mailto:muriloommaia@gmail.com) (`muriloommaia@gmail.com`)
+* #### Send me a [Mail](mailto:muri.m.maia@gmail.com) (`muri.m.maia@gmail.com`)
 
 * #### This is my [Telegram](https://t.me/MuriloMMaia)
 
